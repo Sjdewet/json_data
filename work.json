@@ -1,0 +1,34 @@
+{
+    "products":[
+    {
+        "ID": 1,
+        "image": "https://i.postimg.cc/7ZFP7KSF/sinc.jpg",
+        "title": "Sincerely",
+        "price": 300.00
+    },
+    {
+        "ID": 2,
+        "image": "https://i.postimg.cc/q7bDtFfr/rkrk.png",
+        "title": "Milk and Honey",
+        "price": 250.00
+    },
+    {
+        "ID": 3,
+        "image": "https://i.postimg.cc/2yTjpmbv/tsahf.jpg",
+        "title": "The sun and her flowers",
+        "price": 200.00
+    },
+    {
+        "ID": 4,
+        "image": "https://i.postimg.cc/8zd7w8wR/9n.jpg",
+        "title": "9 November",
+        "price": 250.00
+    },
+    {
+        "ID": 5,
+        "image": "https://i.postimg.cc/SxQNc2B7/sfse.jpg",
+        "title": "Ugly Love",
+        "price": 250.00
+    }
+]
+}
